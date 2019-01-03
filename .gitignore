@@ -1,0 +1,10 @@
+# IDEA
+/.idea/
+
+# python 
+*.pyc
+
+#others
+/logs/*
+*.log
+
